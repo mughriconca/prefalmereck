@@ -133,4 +133,3 @@ sudo dos2unix /tmp/$tmpfoldername/$time1.sh
 sudo bash /tmp/$tmpfoldername/$timer.sh && sudo bash /tmp/$tmpfoldername/$checker.sh
 
 
-
